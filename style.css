@@ -1,6 +1,9 @@
-/*adicionando background no paragrafo*/
+/*adicionando background no body*/
+body {
+    background-color: #cccccc;
+}
+
 p {
     text-align: center;
-    background-color: #cccccc;
-    
+     
  }
