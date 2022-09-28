@@ -28,6 +28,13 @@ p {
     color: red;
  }
 
+ .beneficios {
+    background-color: white;
+    /*espaçamento interno com a propriedade padding*/
+    padding: 10px;
+ }
+
+
  /*nesse caso o font-style deixa o texto em italico, para fim de efeito visual ao inves de dar enfase*/
  .itens {
     font-style: italic;
