@@ -27,3 +27,9 @@ p {
  em strong {
     color: red;
  }
+
+ /*nesse caso o font-style deixa o texto em italico, para fim de efeito visual ao inves de dar enfase*/
+ .itens {
+    font-style: italic;
+ }
+
