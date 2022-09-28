@@ -1,11 +1,11 @@
-/*adicionando background no body*/
-body {
-    background-color: #cccccc;
-}
-
 #banner {
     /*a propriedade width modifica a largura e proporcionalmente a altura*/
     width: 100%;
+}
+
+.principal {
+    background-color: #cccccc;
+
 }
 
 /*text-align alinha o texto*/
