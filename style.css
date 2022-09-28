@@ -3,9 +3,20 @@ body {
     background-color: #cccccc;
 }
 
+/*text-align alinha o texto*/
+h1 {
+    text-align:center;
+}
+
 p {
-    text-align: center;
-     
+    text-align: center; 
+ }
+
+ /*font-size é o tamanho da fonte*/
+ /*a # representa o id (identificador de css e só pode ser utilizado uma vez*/
+
+ #missao { 
+    font-size:20px;
  }
 
  /*será aplicado estilo em todas as tags strongs que estiverem dentro da tag em*/
